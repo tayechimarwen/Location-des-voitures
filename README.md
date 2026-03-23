@@ -6,7 +6,7 @@ Application de gestion de location de voitures développée avec Python et SQLAl
 - Python
 - SQLAlchemy (ORM)
 - SQLite (Base de données)
-- Flask/FastAPI (si تستخدم framework)
+- Flask/FastAPI (si framework)
 
 ## Fonctionnalités
 - Gestion des voitures
